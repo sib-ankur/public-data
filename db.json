@@ -1,0 +1,273 @@
+{
+    "getCampaignListings": {
+      "result": {
+        "data": [
+          {
+            "id": 4,
+            "camp_name": "hello",
+            "sent": 0,
+            "viewed": 0,
+            "clicked_stats": 0,
+            "unsub_stats": 0,
+            "remaining": 1,
+            "end_time_day": 29,
+            "end_time_monthonly": "Nov",
+            "end_time_year": 2020,
+            "end_time_hi": "",
+            "end_time_timestamp": 0,
+            "modified_day": 0,
+            "modified_month": "",
+            "modified_year": 0,
+            "modified_time": "",
+            "modified_timestamp": 0,
+            "created_day": 28,
+            "created_month": "Jan",
+            "created_year": 2022,
+            "created_time": "14:35",
+            "entered_timestamp": 1651149307,
+            "scheduled_day": 11,
+            "scheduled_month": "Jan",
+            "scheduled_year": 2029,
+            "scheduled_time": "",
+            "embargo_timestamp": 0,
+            "type": "sms",
+            "smtp_delivered": 0,
+            "knownOpens": 0,
+            "estimatedOpens": 0,
+            "knownOpensRatePercentage": 0
+          },
+          {
+            "id": 1421,
+            "type": "classic",
+            "subject": "AUT_oketilyl",
+            "camp_name": "AUT_oketilyl",
+            "sent": 64,
+            "created_date": "Sunday 07.17.2022 19h 44",
+            "status": "sent",
+            "remaining": 0,
+            "viewed": 1,
+            "end_time_hi": "02:16 PM",
+            "end_time_monthonly": "Jul",
+            "end_time_year": "2022",
+            "end_time_day": "18",
+            "schdule_month": "Jul",
+            "schdule_year": "2022",
+            "schdule_day": "18",
+            "schdule_time": "02:14 PM",
+            "created_month": "Jul",
+            "created_year": "2022",
+            "created_day": "17",
+            "created_time": "07:44 PM",
+            "modified_month": "Jul",
+            "modified_year": "2022",
+            "modified_day": "17",
+            "modified_time": "07:44 PM",
+            "clicked_stats": 0,
+            "unsub_stats": 0,
+            "smtp_delivered": 57,
+            "test_message_sent": 0,
+            "sender": "73",
+            "impressions": 0,
+            "clicks": 0,
+            "modified": 0,
+            "entered_timestamp": 1658079878,
+            "modified_timestamp": 1658079878,
+            "end_time_timestamp": 1658146560,
+            "embargo_timestamp": 1658146478,
+            "suspendedYear": "",
+            "suspendedMonth": "",
+            "suspendedDay": "",
+            "suspendedTime": "",
+            "suspendedTimestamp": "",
+            "rejectedYear": "",
+            "rejectedMonth": "",
+            "rejectedDay": "",
+            "rejectedTime": "",
+            "rejectedTimestamp": "",
+            "statusReason": "",
+            "message": 1,
+            "sendintime": false,
+            "ab_testing": false,
+            "ax_type_variable": "",
+            "winner": "",
+            "stopped_at": null,
+            "editor_type": "4",
+            "inactive_acc_camp_created": false,
+            "social_share_details": [],
+            "dsl_reached": false,
+            "isTypeFree": true,
+            "is_cancelled": false,
+            "is_reviewed": false,
+            "cancelDay": 11,
+            "cancelMonth": "Nov",
+            "cancelYear": 2022,
+            "cancelTime": "",
+            "processStatusDescription": "all mail sent",
+            "knownOpens": 1,
+            "estimatedOpens": 1,
+            "knownOpensRatePercentage": 1.75,
+            "sortignData": 1658146560
+          },
+          {
+            "id": 2,
+            "camp_name": "mm",
+            "sent": 0,
+            "viewed": 0,
+            "clicked_stats": 0,
+            "unsub_stats": 0,
+            "remaining": 0,
+            "end_time_day": 0,
+            "end_time_monthonly": "",
+            "end_time_year": 0,
+            "end_time_hi": "",
+            "end_time_timestamp": 0,
+            "modified_day": 29,
+            "modified_month": "Nov",
+            "modified_year": 2022,
+            "modified_time": "",
+            "modified_timestamp": 0,
+            "created_day": 25,
+            "created_month": "Apr",
+            "created_year": 2022,
+            "created_time": "16:56",
+            "entered_timestamp": 1650898600,
+            "scheduled_day": 0,
+            "scheduled_month": "",
+            "scheduled_year": 0,
+            "scheduled_time": "",
+            "embargo_timestamp": 0,
+            "type": "classic",
+            "smtp_delivered": 0,
+            "knownOpens": 0,
+            "estimatedOpens": 0,
+            "knownOpensRatePercentage": 0
+          }
+        ],
+        "source": "redis"
+      }
+    },
+    "getBannerInfo": {
+      "validatedByIdentityScore": false,
+      "showIdentityScoringContent": true,
+      "profileCompleted": true,
+      "totalUser": 10037,
+      "mailinIp": 0,
+      "importedUsersStepCompleted": 1,
+      "ipConfigured": false,
+      "scheduledCampStepCompleted": true,
+      "graphValue": 66,
+      "allStepsCompleted": true,
+      "skipValidationSteps": false,
+      "hideDiscoverApps": true
+    },
+    "getMessage":{
+      "type": "",
+      "message": "<h1>Hello WWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldWorldorld</h1><h4>Text Sample</h4>",
+      "campName": ""
+    },
+    "featureToggle":{"isFeatureToggleEnabled":true},
+    "getTotalUsersConfig":{
+      "result": {
+        "global_attrib": [
+          {
+            "cal": "eq",
+            "field": "BLACKLIST",
+            "isUser": true,
+            "perc": "0%",
+            "value": "1",
+            "valueFormated": "1",
+            "valuePlan": 1
+          },
+          {
+            "cal": "eq",
+            "field": "READERS",
+            "isUser": true,
+            "perc": "0%",
+            "value": "2",
+            "valueFormated": "2",
+            "valuePlan": 2,
+            "knownOpen": 2,
+            "knownOpenRate": 200,
+            "estimatedOpen": 4
+          },
+          {
+            "cal": "eq",
+            "field": "CLICKERS",
+            "isUser": true,
+            "perc": "0%",
+            "value": "0",
+            "valueFormated": "0",
+            "valuePlan": 0
+          }
+        ],
+        "totalPlan": 7,
+        "source": "redis"
+      }
+    },
+    "client-config": {
+      "organization_name": "stagepremium",
+      "plan_info": {
+        "freePlan": {
+          "send_limit": 300,
+          "current_day_sent": 0
+        },
+        "type": "PAID",
+        "recurringPlan": {
+          "email_plan_credit": 20000,
+          "end_at": {
+            "sec": 1666224000,
+            "usec": 0
+          },
+          "end_date": "2022-10-20 00:00:00",
+          "name": "Premium",
+          "next_billing_date": {
+            "sec": 1634716618,
+            "usec": 0
+          },
+          "plan_id": "v2-premium-annual(eur)",
+          "send_limit": 14684,
+          "start_at": {
+            "sec": 1632096000,
+            "usec": 0
+          },
+          "start_date": "2021-09-20",
+          "plan_amount": 52900,
+          "status": "active"
+        },
+        "pagPlan": {
+          "send_limit": 0
+        }
+      },
+      "plans_max_emails_limit": {
+        "Micro": 40000,
+        "Lite": 40000,
+        "Bronze": 60000,
+        "Silver": 120000,
+        "Gold": 350000,
+        "Platinum": 750000,
+        "Diamond": 3000000,
+        "Atomic": 15000000
+      },
+      "sms_credits": 170,
+      "timezone":"Europe/Berlin",
+      "new_pricing_enabled": true,
+      "remaining_email_pd": 14684,
+      "is_chargebee_user": true,
+      "is_enterprise": false,
+      "is_editable":true,
+      "web_push_enabled": true,
+      "web_push_onboarded": true,
+      "website_domain_exists": true,
+      "is_whatsapp_enabled": false,
+      "is_tracker_installed": true,
+      "website": {
+        "id": 169,
+        "name": "my demo",
+        "domain": "www.demonew2.com",
+        "guid": "eb441e1efe14fe255a34e055c77f63ea",
+        "default": true
+      }
+    }
+
+
+}
